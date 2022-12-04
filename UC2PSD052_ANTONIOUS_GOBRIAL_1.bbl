@@ -1,0 +1,84 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Appleton%
+, Berczuk%
+, Cabrera%
+\BCBL {}\ \BBA {} Orenstein%
+}{%
+Appleton%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1998}}%
+}]{%
+appleton1998streamed}
+\APACinsertmetastar {%
+appleton1998streamed}%
+\begin{APACrefauthors}%
+Appleton, B.%
+, Berczuk, S.%
+, Cabrera, R.%
+\BCBL {}\ \BBA {} Orenstein, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1998}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Streamed lines: Branching patterns for parallel software
+  development} {Streamed lines: Branching patterns for parallel software
+  development}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of PloP} {Proceedings of plop}\ (\BVOL~98,
+  \BPG~14).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Sommerville%
+}{%
+Sommerville%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+sommerville2016software}
+\APACinsertmetastar {%
+sommerville2016software}%
+\begin{APACrefauthors}%
+Sommerville, I.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Software Engineering 10} {Software engineering
+  10}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Harlow: Pearson Education Limited}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Zolkifli%
+, Ngah%
+\BCBL {}\ \BBA {} Deraman%
+}{%
+Zolkifli%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+zolkifli2018version}
+\APACinsertmetastar {%
+zolkifli2018version}%
+\begin{APACrefauthors}%
+Zolkifli, N\BPBI N.%
+, Ngah, A.%
+\BCBL {}\ \BBA {} Deraman, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Version control system: A review} {Version control
+  system: A review}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Procedia Computer Science}{135}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

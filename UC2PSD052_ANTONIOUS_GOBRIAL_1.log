@@ -1,0 +1,260 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.11.25) (preloaded format=pdflatex 2022.11.29)  4 DEC 2022 18:16
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./UC2PSD052_ANTONIOUS_GOBRIAL_1.tex
+(UC2PSD052_ANTONIOUS_GOBRIAL_1.tex
+LaTeX2e <2022-11-01>
+L3 programming layer <2022-11-02>
+(C:\Users\a_gob\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(C:\Users\a_gob\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen140
+)
+(C:\Users\a_gob\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(C:\Users\a_gob\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks18
+)
+(C:\Users\a_gob\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\a_gob\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(C:\Users\a_gob\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\a_gob\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\a_gob\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\a_gob\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+) (C:\Users\a_gob\AppData\Local\Programs\MiKTeX\tex/latex/apacite\apacite.sty
+Package: apacite 2013/07/21 v6.03 APA citation
+\c@BibCnt=\count193
+\bibleftmargin=\skip49
+\bibindent=\skip50
+\bibparsep=\skip51
+\bibitemsep=\skip52
+\biblabelsep=\skip53
+)
+(C:\Users\a_gob\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count194
+\l__pdf_internal_box=\box51
+) (UC2PSD052_ANTONIOUS_GOBRIAL_1.aux)
+\openout1 = `UC2PSD052_ANTONIOUS_GOBRIAL_1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+
+(C:\Users\a_gob\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count195
+\scratchdimen=\dimen143
+\scratchbox=\box52
+\nofMPsegments=\count196
+\nofMParguments=\count197
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count198
+\MPscratchDim=\dimen144
+\MPnumerator=\count199
+\makeMPintoPDFobject=\count266
+\everyMPtoPDFconversion=\toks21
+)
+(C:\Users\a_gob\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\a_gob\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+\c@maskedRefs=\count267
+
+(C:\Users\a_gob\AppData\Local\Programs\MiKTeX\tex/latex/apacite\english.apc
+File: english.apc 2013/07/21 v6.03 apacite language file
+LaTeX Info: Redefining \BPBI on input line 129.
+LaTeX Info: Redefining \BHBI on input line 130.
+)
+(titlepage.tex [1
+
+{C:/Users/a_gob/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]) (UC2PSD052_
+ANTONIOUS_GOBRIAL_1.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 2.
+)
+\tf@toc=\write3
+\openout3 = `UC2PSD052_ANTONIOUS_GOBRIAL_1.toc'.
+
+ [1]
+Overfull \hbox (0.40303pt too wide) in paragraph at lines 17--17
+[]\OT1/cmr/bx/n/14.4 Requirements En-gi-neer-ing and Sys-tem De-sign 
+ []
+
+[1]
+<2_c_class_diagram_client_person_org.jpg, id=18, 372.39125pt x 412.54124pt>
+File: 2_c_class_diagram_client_person_org.jpg Graphic file (type jpg)
+<use 2_c_class_diagram_client_person_org.jpg>
+Package pdftex.def Info: 2_c_class_diagram_client_person_org.jpg  used on input
+ line 38.
+(pdftex.def)             Requested size: 223.43646pt x 247.52666pt.
+ [2 <./2_c_class_diagram_client_person_org.jpg>]
+<2_d_1to1.jpg, id=22, 352.31625pt x 61.22874pt>
+File: 2_d_1to1.jpg Graphic file (type jpg)
+<use 2_d_1to1.jpg>
+Package pdftex.def Info: 2_d_1to1.jpg  used on input line 48.
+(pdftex.def)             Requested size: 211.39137pt x 36.73752pt.
+<2_d_1toM.jpg, id=23, 312.16624pt x 61.22874pt>
+File: 2_d_1toM.jpg Graphic file (type jpg)
+<use 2_d_1toM.jpg>
+Package pdftex.def Info: 2_d_1toM.jpg  used on input line 56.
+(pdftex.def)             Requested size: 187.3012pt x 36.73752pt.
+<2_e_use_case_diagram_client.jpg, id=24, 452.69125pt x 242.9075pt>
+File: 2_e_use_case_diagram_client.jpg Graphic file (type jpg)
+<use 2_e_use_case_diagram_client.jpg>
+Package pdftex.def Info: 2_e_use_case_diagram_client.jpg  used on input line 63
+.
+(pdftex.def)             Requested size: 271.61684pt x 145.7456pt.
+ [3 <./2_d_1to1.jpg> <./2_d_1toM.jpg> <./2_e_use_case_diagram_client.jpg>]
+<2_f_UML_bookTrainTicket.jpg, id=28, 559.08875pt x 438.63875pt>
+File: 2_f_UML_bookTrainTicket.jpg Graphic file (type jpg)
+<use 2_f_UML_bookTrainTicket.jpg>
+Package pdftex.def Info: 2_f_UML_bookTrainTicket.jpg  used on input line 71.
+(pdftex.def)             Requested size: 335.45583pt x 263.18527pt.
+ [4 <./2_f_UML_bookTrainTicket.jpg>]
+<2_g_sequence_diagram_login.jpg, id=32, 738.50906pt x 382.42876pt>
+File: 2_g_sequence_diagram_login.jpg Graphic file (type jpg)
+<use 2_g_sequence_diagram_login.jpg>
+Package pdftex.def Info: 2_g_sequence_diagram_login.jpg  used on input line 82.
+
+(pdftex.def)             Requested size: 345.0pt x 178.65614pt.
+ [5 <./2_g_sequence_diagram_login.jpg>]
+Overfull \hbox (3.58388pt too wide) in paragraph at lines 97--98
+[]| \OT1/cmr/m/n/10 Ex-pected Re-sults: Jour-ney dis-played with cor-rect start
+ and end points,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--105
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 117--119
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--133
+
+ []
+
+[7] [8] [9] [10]
+Underfull \hbox (badness 10000) in paragraph at lines 193--195
+
+ []
+
+
+Overfull \hbox (7.65277pt too wide) in paragraph at lines 218--218
+[]\OT1/cmr/bx/n/12 (b) Project where Spi-ral De-vel-op-ment Life Cy-cle Model
+ []
+
+[11] [12] [13]
+<6_a_random_int_gen.png, id=62, 538.4115pt x 337.86224pt>
+File: 6_a_random_int_gen.png Graphic file (type png)
+<use 6_a_random_int_gen.png>
+Package pdftex.def Info: 6_a_random_int_gen.png  used on input line 285.
+(pdftex.def)             Requested size: 345.0pt x 216.494pt.
+ [14] [15 <./6_a_random_int_gen.png>]
+<git_1.png, id=71, 564.9105pt x 586.5915pt>
+File: git_1.png Graphic file (type png)
+<use git_1.png>
+Package pdftex.def Info: git_1.png  used on input line 294.
+(pdftex.def)             Requested size: 345.0pt x 358.24098pt.
+ [16 <./git_1.png>]
+<git_2.png, id=75, 566.71725pt x 557.08125pt>
+File: git_2.png Graphic file (type png)
+<use git_2.png>
+Package pdftex.def Info: git_2.png  used on input line 302.
+(pdftex.def)             Requested size: 345.0pt x 339.14754pt.
+<git_3.png, id=76, 566.71725pt x 557.08125pt>
+File: git_3.png Graphic file (type png)
+<use git_3.png>
+Package pdftex.def Info: git_3.png  used on input line 308.
+(pdftex.def)             Requested size: 345.0pt x 339.14754pt.
+<git_4.png, id=77, 566.71725pt x 339.669pt>
+File: git_4.png Graphic file (type png)
+<use git_4.png>
+Package pdftex.def Info: git_4.png  used on input line 314.
+(pdftex.def)             Requested size: 345.0pt x 206.78833pt.
+ [17 <./git_2.png>] (UC2PSD052_ANTONIOUS_GOBRIAL_1.bbl) [18 <./git_3.png>] [19 
+<./git_4.png>] (UC2PSD052_ANTONIOUS_GOBRIAL_1.aux) ) 
+Here is how much of TeX's memory you used:
+ 1939 strings out of 475284
+ 32906 string characters out of 2774104
+ 385928 words of memory out of 3000000
+ 23426 multiletter control sequences out of 15000+600000
+ 472782 words of font info for 39 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,8n,62p,928b,234s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\a_gob\AppData\Lo
+cal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/a_gob/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/a_
+gob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:
+/Users/a_gob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxt
+i10.pfb><C:/Users/a_gob/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmr10.pfb><C:/Users/a_gob/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmr17.pfb><C:/Users/a_gob/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmti10.pfb>
+Output written on UC2PSD052_ANTONIOUS_GOBRIAL_1.pdf (21 pages, 471422 bytes).
+PDF statistics:
+ 118 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+
