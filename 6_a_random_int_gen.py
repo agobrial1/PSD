@@ -1,6 +1,3 @@
-# Second modification
-# First commit
-
 import random
 # method to generate a list with random numbers
 
